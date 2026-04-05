@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:odirilemasemola1@gmail.com">📧 odirilemasemola1@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://instagram.com/odiey626">Instagram</a> &nbsp;|&nbsp;
+  <a href="https://instagram.com/odiey626">Instagram</a> &nbsp;
 </p>
 
 ---
@@ -41,26 +41,6 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### 🔒 [Leano Security Services – Business Website](https://github.com/OdirileMasemola/Leano-Security)
-> Live company website built from scratch using **HTML & CSS**
-- Responsive layouts with Flexbox and Grid
-- Clean UI focused on usability and professionalism
-- Handled domain hosting and full deployment
-
-### 📱 [QR Code App](https://github.com/OdirileMasemola/QRCodeApp)
-> A QR Code Generator and Scanner built with **.NET MAUI**, targeting Android and iOS
-- Cross-platform mobile development
-- Clean architecture and structured code
-
-### 🎮 [Pokemon Review App](https://github.com/OdirileMasemola/PokemonReviewApp)
-> A **C# .NET** Web API application
-- RESTful API development
-- Backend logic and data management
 
 ---
 
