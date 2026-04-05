@@ -13,8 +13,10 @@
 
 I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank College**, Johannesburg. My passion lies in building software and web applications — particularly with **C# .NET**, which is my go-to language.
 
-- 💼 Currently working on [JHH-Clock-Pro](https://github.com/RtCzee/JHH-Clock-Pro)
-- 🌱 Expanding into **ASP.NET MVC**, **Web APIs**, **PHP**, and **Kotlin**
+
+- 💻 Aspiring **.NET Backend Developer**
+- 📱 Currently learning **Kotlin** for Android development
+- 🌱 Expanding into **ASP.NET MVC**, **Web APIs**, and **PHP**
 - 🏗️ I care about clean code, structured development, and real-world impact
 - 📍 Based in **Johannesburg, South Africa**
 
@@ -23,7 +25,7 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odiey626&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdirileMasemola&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
@@ -51,9 +53,8 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 **Frameworks & Tools:**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -61,10 +62,30 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 
 ---
 
+## 🚀 Projects
+
+### 🔒 [Leano Security Services – Business Website](https://github.com/OdirileMasemola/Leano-Security)
+> Live company website built from scratch using **HTML & CSS**
+- Responsive layouts with Flexbox and Grid
+- Clean UI focused on usability and professionalism
+- Handled domain hosting and full deployment
+
+### 📱 [QR Code App](https://github.com/OdirileMasemola/QRCodeApp)
+> A QR Code Generator and Scanner built with **.NET MAUI**, targeting Android and iOS
+- Cross-platform mobile development
+- Clean architecture and structured code
+
+### 🎮 [Pokemon Review App](https://github.com/OdirileMasemola/PokemonReviewApp)
+> A **C# .NET** web API application
+- RESTful API development
+- Backend logic and data management
+
+---
+
 ## 🎓 Education
 
 **Diploma in IT (Software Development)** — Rosebank College  
-📅 Currently in 3rd Year (2026) &nbsp;|&nbsp; 🏆 
+📅 Currently in 3rd Year &nbsp;|&nbsp; 
 
 ---
 
