@@ -4,7 +4,6 @@
 <p align="center">
   <a href="mailto:odirilemasemola1@gmail.com">📧 odirilemasemola1@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://instagram.com/odiey626">Instagram</a> &nbsp;|&nbsp;
-  <a href="https://www.topcoder.com/members/1818">TopCoder</a>
 </p>
 
 ---
@@ -13,28 +12,11 @@
 
 I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank College**, Johannesburg. My passion lies in building software and web applications — particularly with **C# .NET**, which is my go-to language.
 
-
 - 💻 Aspiring **.NET Backend Developer**
 - 📱 Currently learning **Kotlin** for Android development
 - 🌱 Expanding into **ASP.NET MVC**, **Web APIs**, and **PHP**
 - 🏗️ I care about clean code, structured development, and real-world impact
 - 📍 Based in **Johannesburg, South Africa**
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdirileMasemola&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OdirileMasemola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
 
 ---
 
@@ -76,7 +58,7 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 - Clean architecture and structured code
 
 ### 🎮 [Pokemon Review App](https://github.com/OdirileMasemola/PokemonReviewApp)
-> A **C# .NET** web API application
+> A **C# .NET** Web API application
 - RESTful API development
 - Backend logic and data management
 
