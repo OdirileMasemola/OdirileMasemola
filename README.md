@@ -47,7 +47,7 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 ## 🎓 Education
 
 **Diploma in IT (Software Development)** — Rosebank College  
-📅 Currently in 3rd Year &nbsp;|&nbsp; 
+📅 Currently in 3rd Year &nbsp; 
 
 ---
 
