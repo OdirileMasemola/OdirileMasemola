@@ -1,12 +1,22 @@
-<h1 align="center">Hey, I'm Odirile Masemola 👋</h1>
-<h3 align="center">Full-Stack Developer · Software Development Student · Johannesburg, South Africa 🇿🇦</h3>
+<div align="center">
 
-<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=239120&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Odirile+Masemola+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;.NET+Backend+Enthusiast+%F0%9F%94%A5;Building+cool+stuff+from+JHB+%F0%9F%87%BF%F0%9F%87%A6" alt="Typing SVG" />
+
+<h3>Full-Stack Developer · Software Development Student · Johannesburg, South Africa 🇿🇦</h3>
+
+<p>
   <a href="mailto:odirilemasemola1@gmail.com">📧 odirilemasemola1@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://instagram.com/odiey626">Instagram</a> &nbsp;
+  <a href="https://instagram.com/odiey626">📸 Instagram</a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=odirilemasemola&color=239120&style=flat-square" alt="Profile views" />
+
+</div>
+
 ---
+
+<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 👨‍💻 About Me
 
@@ -17,10 +27,40 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 - 🌱 Expanding into **ASP.NET MVC**, **Web APIs**, and **PHP**
 - 🏗️ I care about clean code, structured development, and real-world impact
 - 📍 Based in **Johannesburg, South Africa**
+- ⚡ Fun fact: I debug with console logs and I'm not ashamed 😂
+
+<br clear="right"/>
+
+---
+
+## 📊 Most Used Languages
+
+<!-- GitHub's built-in language stats card -->
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odirilemasemola&layout=donut&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/odirilemasemola)
+
+</div>
+
+> 💡 **Swap `odirilemasemola` above with your actual GitHub username** to make this card live!
+
+Here's how my language time roughly breaks down:
+
+| Language | Vibe | Usage |
+|----------|------|-------|
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) | My ride-or-die 🤝 | ████████████ |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | OOP brain activated | █████████ |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Frontend chaos 🌀 | ███████ |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | The skeleton king 💀 | ██████ |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Pixel pushing | █████ |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | Expanding horizons 🌱 | ███ |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | Learning mode ON 📱 | ██ |
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages:**
 
@@ -42,22 +82,75 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=odirilemasemola&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=odirilemasemola&theme=github-dark-blue&hide_border=true" height="165" />
+
+</div>
+
+> 💡 **Replace `odirilemasemola` above with your real GitHub username!**
+
 ---
 
 ## 🎓 Education
 
-**Diploma in IT (Software Development)** — Rosebank College  
-📅 Currently in 3rd Year &nbsp; 
+**Diploma in IT (Software Development)** — Rosebank College
+📅 Currently in 3rd Year
 
 ---
 
 ## 💪 Key Strengths
 
-- 🔍 Strong attention to detail
-- 🧠 Problem solving & logical thinking
-- ⚡ Quick learner, always growing
-- 🤝 Works well independently and in a team
+<div align="center">
+
+| 🔍 Attention to Detail | 🧠 Problem Solving | ⚡ Quick Learner | 🤝 Team Player |
+|---|---|---|---|
+| Clean code, always | Logical & structured | Always growing | Solo or squad |
+
+</div>
 
 ---
 
-<p align="center"><i>"Motivated to build, eager to learn, and driven to grow."</i></p>
+## 😂 Dev Life in GIFs
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" /><br/>
+      <b>Me when the code works first try</b>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="200" /><br/>
+      <b>Debugging at 2am</b>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" /><br/>
+      <b>Git push to production 😅</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
+
+*"Motivated to build, eager to learn, and driven to grow."*
+
+<br/>
+
+**Let's connect and build something awesome!** 🚀
+
+</div>
