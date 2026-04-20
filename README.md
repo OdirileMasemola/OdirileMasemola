@@ -40,7 +40,7 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 
 </div>
 
-> Replace `odirilemasemola` with your actual GitHub username to make this card live.
+> Replace `OdirileMasemola` with your actual GitHub username to make this card live.
 
 | Language | Role | Usage |
 |----------|------|-------|
