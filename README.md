@@ -10,7 +10,7 @@
   <a href="https://instagram.com/odiey626">Instagram</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=odirilemasemola&color=239120&style=flat-square&label=profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=OdirileMasemola&color=239120&style=flat-square&label=profile+views" alt="Profile views" />
 
 </div>
 
@@ -36,11 +36,9 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odirilemasemola&layout=donut&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/odirilemasemola)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdirileMasemola&layout=donut&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/OdirileMasemola)
 
 </div>
-
-> Replace `OdirileMasemola` with your actual GitHub username to make this card live.
 
 | Language | Role | Usage |
 |----------|------|-------|
@@ -86,12 +84,10 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=odirilemasemola&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=odirilemasemola&theme=github-dark-blue&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=OdirileMasemola&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+<img src="https://streak-stats.demolab.com/?user=OdirileMasemola&theme=github-dark-blue&hide_border=true" height="165" />
 
 </div>
-
-> Replace `odirilemasemola` with your real GitHub username.
 
 ---
 
@@ -117,16 +113,16 @@ Currently in 3rd Year
 <table>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" /><br/>
+      <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" /><br/>
       <sub>When the code works first try</sub>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="200" /><br/>
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" /><br/>
       <sub>Debugging at 2am</sub>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" /><br/>
-      <sub>Pushing to production</sub>
+      <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" /><br/>
+      <sub>Pushing to production on a Friday</sub>
     </td>
   </tr>
 </table>
@@ -137,7 +133,7 @@ Currently in 3rd Year
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="280" />
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" />
 
 <br/><br/>
 
