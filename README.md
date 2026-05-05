@@ -106,30 +106,6 @@ Currently in 3rd Year
 
 ---
 
-## Dev Life
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" /><br/>
-      <sub>When the code works first try</sub>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" /><br/>
-      <sub>Debugging at 2am</sub>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" /><br/>
-      <sub>Pushing to production on a Friday</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
 
 <div align="center">
 
