@@ -1,93 +1,101 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=239120&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Odirile+Masemola;Full-Stack+Developer;.NET+Backend+Enthusiast;Building+from+Johannesburg%2C+ZA" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a2e,100:16213e&height=180&section=header&text=Odirile%20Masemola&fontSize=42&fontColor=ffffff&fontFamily=Arial%20Black&animation=fadeIn&fontAlignY=38&desc=C%23%20Developer%20%7C%20Expanding%20into%20Front-End%20Development&descAlignY=58&descSize=18&descColor=64ffda" width="100%"/>
 
-<h3>Full-Stack Developer &nbsp;·&nbsp; Software Development Student &nbsp;·&nbsp; Johannesburg, South Africa</h3>
+<h3>Software Development Student &nbsp;·&nbsp; Johannesburg, South Africa</h3>
 
 <p>
-  <a href="mailto:odirilemasemola1@gmail.com">odirilemasemola1@gmail.com</a>
-  &nbsp;|&nbsp;
-  <a href="https://instagram.com/odiey626">Instagram</a>
+  <a href="mailto:odirilemasemola1@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  &nbsp;
+  <a href="https://instagram.com/odiey626"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=OdirileMasemola&color=239120&style=flat-square&label=profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=OdirileMasemola&color=64ffda&style=flat-square&label=profile+views" alt="Profile views" />
 
 </div>
 
----
+<br/>
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ0NDB0NW16dzlvajUwemtrbDhhanhzZHI0YjNmbzc2emxoMW5layZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JoVV55m3KZHdxlpFZ6/giphy.gif" width="100%" alt="Coding" />
+
+<br/>
 
 ## About Me
 
-I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank College**, Johannesburg. My passion lies in building software and web applications — particularly with **C# .NET**.
+I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank College**, Johannesburg. My foundation is in **C# and the .NET ecosystem**, and I'm currently expanding my skills into **front-end development**.
 
-- Aspiring **.NET Backend Developer**
-- Currently learning **Kotlin** for Android development
-- Expanding into **ASP.NET MVC**, **Web APIs**, and **PHP**
+- Strong foundation in **C# / .NET** development
+- Currently expanding into **Front-End Development**
+- Also experienced with **Kotlin**, **PHP**, **Java**, and **ASP.NET MVC**
+- Comfortable across the stack, from databases to UI
 - I care about clean code, structured development, and real-world impact
 - Based in **Johannesburg, South Africa**
 
-<br clear="right"/>
-
----
-
-## Most Used Languages
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdirileMasemola&layout=donut&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/OdirileMasemola)
-
-</div>
-
-
----
+<br/>
 
 ## Tech Stack
 
 <div align="center">
 
-**Languages**
+### Languages
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,java,php,kotlin,html,css,js,ts&theme=dark" />
 
-**Frameworks & Tools**
+### Frameworks & Libraries
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+<img src="https://skillicons.dev/icons?i=dotnet,react&theme=dark" />
+
+### Styling & UI Kits
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+<img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
+
+### Core Development & Environment Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio&theme=dark" />
+<img src="https://img.shields.io/badge/-FF69B4?style=for-the-badge&logo=apache&logoColor=white" alt="WAMP" />
+
+### UI Testing & Debugging
+
+<img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
+<img src="https://img.shields.io/badge/-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
+
+### Databases & Backend Services
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase&theme=dark" />
 
 </div>
 
----
+<br/>
+
+## Most Used Languages
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdirileMasemola&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/OdirileMasemola)
+
+</div>
+
+<br/>
 
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OdirileMasemola&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-<img src="https://streak-stats.demolab.com/?user=OdirileMasemola&theme=github-dark-blue&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=OdirileMasemola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://streak-stats.demolab.com/?user=OdirileMasemola&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
----
+<br/>
 
 ## Education
 
-**Diploma in IT (Software Development)** — Rosebank College  
+**Diploma in IT (Software Development)** — Rosebank College
 Currently in 3rd Year
 
----
+<br/>
 
 ## Key Strengths
 
@@ -95,15 +103,12 @@ Currently in 3rd Year
 |---|---|---|---|
 | Clean code, always | Logical & structured | Always growing | Solo or squad |
 
----
-
+<br/>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0c29&height=120&section=footer" width="100%"/>
 
-<br/><br/>
-
-*"Motivated to build, eager to learn, and driven to grow."*
+*Motivated to build, eager to learn, and driven to grow.*
 
 </div>
