@@ -73,19 +73,17 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdirileMasemola&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/OdirileMasemola)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=OdirileMasemola&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 <br/>
 
-## GitHub Stats
-
+## GitHub Stats:
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OdirileMasemola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://streak-stats.demolab.com/?user=OdirileMasemola&theme=tokyonight&hide_border=true" height="165" />
-
+![](https://github-readme-stats.shion.dev/api?username=OdirileMasemola&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=OdirileMasemola&theme=dark&hide_border=false)<br/>
 </div>
 
 <br/>
