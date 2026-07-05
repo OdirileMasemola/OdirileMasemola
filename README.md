@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a2e,100:16213e&height=180&section=header&text=Odirile%20Masemola&fontSize=42&fontColor=ffffff&fontFamily=Arial%20Black&animation=fadeIn&fontAlignY=38&desc=C%23%20Developer%20%7C%20Expanding%20into%20Front-End%20Development&descAlignY=58&descSize=18&descColor=64ffda" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:161821,100:1c1f2b&height=180&section=header&text=Odirile%20Masemola&fontSize=38&fontColor=ffffff&fontFamily=Arial&fontAlignY=38&desc=C%23%20Developer%20%7C%20Expanding%20into%20Front-End%20Development&descAlignY=58&descSize=16&descColor=8892a6&stroke=3a3f52&strokeWidth=1" width="100%"/>
 
 <h3>Software Development Student &nbsp;·&nbsp; Johannesburg, South Africa</h3>
 
@@ -107,7 +107,7 @@ Currently in 3rd Year
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1c1f2b,100:161821&height=110&section=footer&stroke=3a3f52&strokeWidth=1" width="100%"/>
 
 *Motivated to build, eager to learn, and driven to grow.*
 
