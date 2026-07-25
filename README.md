@@ -17,7 +17,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OdirileMasemola/OdirileMasemola/main/Pink%20Circle%20GIF.gif" width="100%" alt="Pink Circle GIF.gif" />
+  <img src="https://raw.githubusercontent.com/OdirileMasemola/OdirileMasemola/main/Pink%20Circle%20GIF.gif" width="900" height="600" alt="Pink Circle GIF" />
 </p>
 
 <br/>
