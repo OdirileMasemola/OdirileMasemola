@@ -16,9 +16,13 @@
 
 <br/>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ0NDB0NW16dzlvajUwemtrbDhhanhzZHI0YjNmbzc2emxoMW5layZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JoVV55m3KZHdxlpFZ6/giphy.gif" width="100%" alt="annimation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OdirileMasemola/OdirileMasemola/main/Pink%20Circle%20GIF.gif" width="100%" alt="Pink Circle GIF.gif" />
+</p>
 
 <br/>
+
+
 
 ## About Me
 
@@ -89,19 +93,6 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
   <img src="https://raw.githubusercontent.com/OdirileMasemola/OdirileMasemola/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 <br/>
-
-## Education
-
-**Diploma in IT (Software Development)** — Rosebank College
-Currently in 3rd Year
-
-<br/>
-
-## Key Strengths
-
-| Attention to Detail | Problem Solving | Quick Learner | Team Player |
-|---|---|---|---|
-| Clean code, always | Logical & structured | Always growing | Solo or squad |
 
 <br/>
 
