@@ -85,7 +85,9 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 ![](https://github-readme-stats.shion.dev/api?username=OdirileMasemola&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=OdirileMasemola&theme=dark&hide_border=false)<br/>
 </div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OdirileMasemola/OdirileMasemola/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
 <br/>
 
 ## Education
