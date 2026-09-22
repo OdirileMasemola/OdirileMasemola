@@ -22,8 +22,6 @@
 
 <br/>
 
-
-
 ## About Me
 
 I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank College**, Johannesburg. My foundation is in **C# and the .NET ecosystem**, and I'm currently expanding my skills into **front-end development**.
@@ -39,37 +37,46 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 
 ## Tech Stack
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cs,java,php,kotlin,html,css,js,ts&theme=dark" />
-
-### Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=dotnet,react&theme=dark" />
-
-### Styling & UI Kits
-
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-<img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
-
-### Core Development & Environment Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio&theme=dark" />
-<img src="https://img.shields.io/badge/-FF69B4?style=for-the-badge&logo=apache&logoColor=white" alt="WAMP" />
-
-### UI Testing & Debugging
-
-<img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
-<img src="https://img.shields.io/badge/-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
-
-### Databases & Backend Services
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase&theme=dark" />
-
-</div>
+<table width="100%">
+  <tr>
+    <th align="left" width="220">Category</th>
+    <th align="left">Tools</th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,java,php,kotlin,html,css,js,ts&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Libraries</b></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet,react&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><b>Styling & UI Kits</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+      <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Core Development & Environment</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio&theme=dark" />
+      <img src="https://img.shields.io/badge/-FF69B4?style=for-the-badge&logo=apache&logoColor=white" alt="WAMP" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>UI Testing & Debugging</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
+      <img src="https://img.shields.io/badge/-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases & Backend Services</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,firebase,supabase&theme=dark" /></td>
+  </tr>
+</table>
 
 <br/>
 
@@ -83,16 +90,20 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 
 <br/>
 
-## GitHub Stats:
+## GitHub Stats
+
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=OdirileMasemola&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=OdirileMasemola&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=OdirileMasemola&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+
+![](https://streak-stats.demolab.com/?user=OdirileMasemola&theme=dark&hide_border=false)
+
 </div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/OdirileMasemola/OdirileMasemola/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
-<br/>
 
 <br/>
 
