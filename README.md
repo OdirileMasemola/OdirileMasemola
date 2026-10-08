@@ -4,7 +4,7 @@
 
 **C# Developer · Expanding into Front-End Development**
 
-Software Development Student · Johannesburg, South Africa
+Software Developer · Johannesburg, South Africa
 
 <br/>
 
@@ -22,13 +22,19 @@ Software Development Student · Johannesburg, South Africa
 
 ## About
 
-I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank College**, Johannesburg. My foundation is in **C# and the .NET ecosystem**, and I'm now building out my **front-end** skills.
-
-- Strong foundation in **C# / .NET**
-- Currently expanding into **front-end development** with React and TypeScript
-- Also experienced with **Kotlin**, **PHP**, **Java** and **ASP.NET MVC**
-- Comfortable across the stack, from databases to UI
-- I care about clean code, structured development and real-world impact
+```json
+{
+  "name": "Odirile Masemola",
+  "role": "Software Developer",
+  "location": "Johannesburg, South Africa",
+  "qualification": "Diploma in IT (Software Development), Rosebank College",
+  "primaryStack": ["C#", ".NET", "ASP.NET MVC"],
+  "alsoWorkWith": ["Kotlin", "PHP", "Java"],
+  "currentFocus": ["Front-End Development", "React", "TypeScript"],
+  "scope": "Full stack, from databases to UI",
+  "standards": ["Clean code", "Structured development", "Real-world impact"]
+}
+```
 
 <br/>
 
