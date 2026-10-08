@@ -1,37 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:161821,100:1c1f2b&height=180&section=header&text=Odirile%20Masemola&fontSize=38&fontColor=ffffff&fontFamily=Arial&fontAlignY=38&desc=C%23%20Developer%20%7C%20Expanding%20into%20Front-End%20Development&descAlignY=58&descSize=16&descColor=8892a6&stroke=3a3f52&strokeWidth=1" width="100%"/>
+# Odirile Masemola
 
-<h3>Software Development Student &nbsp;·&nbsp; Johannesburg, South Africa</h3>
+**C# Developer · Expanding into Front-End Development**
 
-<p>
-  <a href="mailto:odirilemasemola1@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  &nbsp;
-  <a href="https://instagram.com/odiey626"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+Software Development Student · Johannesburg, South Africa
 
-<img src="https://komarev.com/ghpvc/?username=OdirileMasemola&color=64ffda&style=flat-square&label=profile+views" alt="Profile views" />
+<br/>
+
+<a href="mailto:odirilemasemola1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://instagram.com/odiey626"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://github.com/OdirileMasemola"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/OdirileMasemola/OdirileMasemola/main/Pink%20Circle%20GIF.gif" width="450" height="300" alt="Pink Circle GIF" />
 
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OdirileMasemola/OdirileMasemola/main/Pink%20Circle%20GIF.gif" width="450" height="300" alt="Pink Circle GIF" />
-</p>
+## About
 
-<br/>
+I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank College**, Johannesburg. My foundation is in **C# and the .NET ecosystem**, and I'm now building out my **front-end** skills.
 
-## About Me
-
-I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank College**, Johannesburg. My foundation is in **C# and the .NET ecosystem**, and I'm currently expanding my skills into **front-end development**.
-
-- Strong foundation in **C# / .NET** development
-- Currently expanding into **Front-End Development**
-- Also experienced with **Kotlin**, **PHP**, **Java**, and **ASP.NET MVC**
+- Strong foundation in **C# / .NET**
+- Currently expanding into **front-end development** with React and TypeScript
+- Also experienced with **Kotlin**, **PHP**, **Java** and **ASP.NET MVC**
 - Comfortable across the stack, from databases to UI
-- I care about clean code, structured development, and real-world impact
-- Based in **Johannesburg, South Africa**
+- I care about clean code, structured development and real-world impact
 
 <br/>
 
@@ -44,49 +41,39 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
   </tr>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cs,java,php,kotlin,html,css,js,ts&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,java,php,kotlin,html,css,js,ts" alt="Languages" /></td>
   </tr>
   <tr>
-    <td><b>Frameworks & Libraries</b></td>
-    <td><img src="https://skillicons.dev/icons?i=dotnet,react&theme=dark" /></td>
+    <td><b>Frameworks and Libraries</b></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet,react" alt="Frameworks" /></td>
   </tr>
   <tr>
-    <td><b>Styling & UI Kits</b></td>
+    <td><b>Styling and UI Kits</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-      <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+      <img src="https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI" />
     </td>
   </tr>
   <tr>
-    <td><b>Core Development & Environment</b></td>
+    <td><b>Core Development and Environment</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio&theme=dark" />
-      <img src="https://img.shields.io/badge/-FF69B4?style=for-the-badge&logo=apache&logoColor=white" alt="WAMP" />
+      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,androidstudio" alt="Dev tools" />
+      <img src="https://img.shields.io/badge/WAMP-FF69B4?style=flat-square&logo=apache&logoColor=white" alt="WAMP" />
     </td>
   </tr>
   <tr>
-    <td><b>UI Testing & Debugging</b></td>
+    <td><b>UI Testing and Debugging</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
-      <img src="https://img.shields.io/badge/-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
+      <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
+      <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
     </td>
   </tr>
   <tr>
-    <td><b>Databases & Backend Services</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,firebase,supabase&theme=dark" /></td>
+    <td><b>Databases and Backend Services</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" alt="Databases" /></td>
   </tr>
 </table>
-
-<br/>
-
-## Most Used Languages
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=OdirileMasemola&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
 
 <br/>
 
@@ -94,22 +81,22 @@ I'm a 3rd-year **Diploma in IT (Software Development)** student at **Rosebank Co
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=OdirileMasemola&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-
-![](https://streak-stats.demolab.com/?user=OdirileMasemola&theme=dark&hide_border=false)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=OdirileMasemola&show_icons=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=OdirileMasemola&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=OdirileMasemola&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=OdirileMasemola&layout=compact&theme=transparent&title_color=58a6ff&text_color=c9d1d9&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=OdirileMasemola&layout=compact&theme=default&hide_border=true" />
+  <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=OdirileMasemola&layout=compact&hide_border=true" height="160" />
+</picture>
 
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OdirileMasemola/OdirileMasemola/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
 
 <br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1c1f2b,100:161821&height=110&section=footer&stroke=3a3f52&strokeWidth=1" width="100%"/>
 
 *Motivated to build, eager to learn, and driven to grow.*
 
