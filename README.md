@@ -27,7 +27,7 @@ Software Developer · Johannesburg, South Africa
   "name": "Odirile Masemola",
   "role": "Software Developer",
   "location": "Johannesburg, South Africa",
-  "qualification": "Diploma in IT (Software Development), Rosebank College",
+  "qualification": "Diploma in IT (Software Development)",
   "primaryStack": ["C#", ".NET", "ASP.NET MVC"],
   "alsoWorkWith": ["Kotlin", "PHP", "Java"],
   "currentFocus": ["Front-End Development", "React", "TypeScript"],
